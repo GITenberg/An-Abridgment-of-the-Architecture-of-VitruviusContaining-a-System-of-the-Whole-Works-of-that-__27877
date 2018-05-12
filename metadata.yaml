@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '32993'
     url: http://www.gutenberg.org/2009/agents/32993
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27877#An-Abridgment-of-the-Architecture-of-VitruviusContaining-a-System-of-the-Whole-Works-of-that-_
 gutenberg_issued: '2009-01-24'
 gutenberg_type: Text
 identifiers:
